@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XBRLAnalysis", "XBRLAnalysis\XBRLAnalysis.csproj", "{0F6028B5-BF31-4635-B32E-0A8CD8B42A06}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B2B20F83-CD7C-4157-AF0B-4603FF995612} = {B2B20F83-CD7C-4157-AF0B-4603FF995612}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XBRLModel", "XBRLModel\XBRLModel.csproj", "{B2B20F83-CD7C-4157-AF0B-4603FF995612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F6028B5-BF31-4635-B32E-0A8CD8B42A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6028B5-BF31-4635-B32E-0A8CD8B42A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6028B5-BF31-4635-B32E-0A8CD8B42A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6028B5-BF31-4635-B32E-0A8CD8B42A06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B20F83-CD7C-4157-AF0B-4603FF995612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B20F83-CD7C-4157-AF0B-4603FF995612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B20F83-CD7C-4157-AF0B-4603FF995612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B20F83-CD7C-4157-AF0B-4603FF995612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05E57866-A66E-4133-9C32-6E38D9B9F7C0}
+	EndGlobalSection
+EndGlobal

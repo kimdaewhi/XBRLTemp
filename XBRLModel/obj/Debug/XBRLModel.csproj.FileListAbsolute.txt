@@ -1,0 +1,6 @@
+D:\Project\XBRLAnalysis-master\XBRLModel\bin\Debug\XBRLModel.dll
+D:\Project\XBRLAnalysis-master\XBRLModel\bin\Debug\XBRLModel.pdb
+D:\Project\XBRLAnalysis-master\XBRLModel\obj\Debug\XBRLModel.csproj.CoreCompileInputs.cache
+D:\Project\XBRLAnalysis-master\XBRLModel\obj\Debug\XBRLModel.dll
+D:\Project\XBRLAnalysis-master\XBRLModel\obj\Debug\XBRLModel.pdb
+D:\Project\XBRLAnalysis-master\XBRLModel\obj\Debug\XBRLModel.csprojAssemblyReference.cache
